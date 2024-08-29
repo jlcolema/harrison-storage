@@ -1,0 +1,54 @@
+/* 
+  -------------------------------------------------------
+  File:'Blueball Shadow Colors 36' border_on.css
+  Created: 29 August, 2006
+  Last Modified: 9 September, 2007
+  Author: Charlie Lockhart, Blueball Design
+  www.blueballdesign.com
+  Email: themes@blueballdesign.com
+  Copyright 2005/2006/2007 Charlie Lockhart/Blueball Design USA
+  All Rights Reserved
+  -------------------------------------------------------
+*/
+
+#pageheader #logo {
+	border: 0px;
+	padding: 0px;
+}
+
+#pageheader img {
+	border: 0px;
+}
+
+a img {
+	border: 0px;
+}
+
+img {
+	margin: 0px;
+	padding: 4px;
+	border: 1px solid #999999;
+}
+
+.imageStyle {
+	margin: 0px;
+	padding: 4px;
+	border: 1px solid #999999;
+}
+
+.thumbnail-frame img {
+	margin: 0px;
+	padding: 4px;
+	border: 1px solid #999999;
+}
+
+.photo-frame {
+	padding: 10px;
+	border: 1px solid #999999;
+}
+
+.movie-thumbnail-frame img {
+	margin: 0px;
+	padding: 4px;
+	border: 1px solid #999999;
+}

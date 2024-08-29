@@ -1,0 +1,385 @@
+input[type="text"],input[type=password],textarea{font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;font-size:13px;vertical-align:middle;font-weight:normal;margin:0;border:none;outline:none;}
+/*404 Search-form & Under Construction*/
+#page-404 #search-alt {
+	display:block;
+	overflow:hidden;
+	padding:0 0 0 4px;
+}
+#page-404 #search-alt input {
+	width:254px; 
+	font-size:13px;
+	padding:4px 8px 5px 8px !important;
+	background: none;
+	outline:none;
+	background:#fff;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	display:block;
+	color:#171717;
+	margin:0 6px 0 0;
+	border-radius:7px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border:1px solid #d9d9d9;
+	float:left;
+	height:18px !important;
+}
+#page-404 #search-alt a {float:left;}
+#newsletter-form input {
+	width:212px; 
+	font-size:13px;
+	padding:4px 14px 5px 14px !important;
+	background:#fff;
+	outline:none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	display:inline-block;
+	color:#7d7d7d;
+	margin:0 8px 0 0;
+	box-shadow:none !important;
+	border-radius:7px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border:1px solid #d0d0d0;
+	vertical-align:middle;
+	height:18px !important;
+}
+/* Contact form */
+#contact-form {
+	display:block; 
+	height:297px;
+	width:350px;
+	position:relative;
+}
+#contact-form label {
+	display:block; 
+	height:45px;
+	position:relative;
+	overflow:hidden;
+}
+	#contact-form label.message {
+		height:auto;
+		position:relative;
+		overflow:visible;
+	}
+#contact-form span {
+	display:none;
+	color:#f00;
+	margin:0 0 0 5px;
+	font-size:11px;
+	line-height:14px;
+	text-align:right;
+}
+#contact-form label span.errors {
+	display:block;
+	margin:0;
+	position:absolute;
+	right:8px;
+	top:0;
+	width:190px;
+}
+	#contact-form label.message span.errors {
+		display:block;
+		position: relative;
+		overflow:hidden;
+		clear:both;
+		width:auto;
+		right:0;
+	}
+		#contact-form label.message span.errors span {text-align:left;}
+#contact-form input {
+	width:322px; 
+	font-size:13px;
+	padding:9px 13px 9px 13px !important;
+	background:#fff;
+	outline:none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	display:block;
+	color:#171717;
+	margin:0;
+	box-shadow:none !important;
+	border-radius:7px;
+	border:1px solid #d8d8d8;
+	float:left;
+	height:18px !important;
+}
+#contact-form textarea {
+	height:136px;
+	width:322px; 
+	font-size:13px;
+	padding:9px 13px 9px 13px;
+	background:#fff;
+	outline:none;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	display:block;
+	color:#171717;
+	margin:0;
+	box-shadow:none !important;
+	border-radius:7px;
+	border:1px solid #d8d8d8;
+	overflow:auto;
+	resize:none;
+}
+#contact-form .btns {
+	padding:0;
+	position:absolute;
+	bottom:0;
+	right:0;
+	height:auto;
+	width:auto;
+	overflow:hidden;
+}
+	#contact-form .btns a {
+		float:left;
+		margin:0 0 0 20px;
+		text-transform:capitalize;
+		padding:5px 23px 7px 14px;
+	}
+.success {
+	display:none;
+	font-size:13px;
+	line-height:18px;
+	padding:0;
+	top:-18px;
+	left:7px;
+	position:absolute;
+	word-spacing:-1px;
+	color:#171717;
+}
+/* Translation form */
+#transl-form {padding:0 0 11px 0;}
+#transl-form .row-1 {height:30px;}
+#transl-form .row-1.extra {padding:15px 0 12px 0;}
+	#transl-form .row-1 strong, #transl-form .row-5 strong {
+		float:left;
+		font-weight:normal;
+		font-size:13px;
+		line-height:17px;
+		color:#010101;
+		width:65px;
+		padding:2px 0 0 0;
+	}
+#transl-form .row-2 {padding:19px 0 16px;}
+	#transl-form strong.row-title {
+		display:block;
+		font-size:13px;
+		font-weight:bold;
+		text-transform:uppercase;
+	}
+#transl-form .row-3 {height:20px;}
+	#transl-form .row-3 label {
+		float:left;
+		color:#010101;
+		font-size:13px;
+		line-height:17px;
+	}
+#transl-form .row-3 .col-1 {
+	float:left;
+	width:150px;
+	margin:0;
+}
+#transl-form .row-3 .col-2 {
+	float:left;
+	width:95px;
+	margin:0;
+	padding:0;
+}
+#transl-form .row-4 {padding:20px 0 16px;}
+#transl-form .row-4.extra {padding:20px 0 13px;}
+#transl-form .colmn-1, #transl-form .colmn-2 {float:left;width:100px;}
+#transl-form .hr-border {
+	border-bottom:1px solid #bebebe;
+	padding:12px 0 0 0;
+	margin:0 10px 13px 0;
+}
+#transl-form .row-5 {height:91px;}
+#transl-form .row-6 {height:43px; padding:5px 0 0 0;}
+#transl-form .row-7 {height:101px;}
+#transl-form .alignright {padding:0 15px 0 0;}
+#transl-form .button-1 {margin:0 0 0 7px;}
+/* Selects */
+#transl-form .jqTransformSelectWrapper {
+	width:181px !important;
+	border: none;
+	height: 23px;
+	background: #fff;
+	float:left;
+	z-index:20;
+	position:relative;
+	background:url(../images/transl-form-input-bg.png) no-repeat 0 0;
+}
+	
+#transl-form .jqTransformSelectWrapper div span {
+	font-size: 13px;
+	float: none;
+	position: absolute;
+	white-space: nowrap;
+	height: 21px;
+	line-height: 21px;
+	padding: 0 0 0 11px;
+	overflow: hidden;
+	cursor:pointer;
+	color:#010101;
+	width:145px !important;
+}
+#transl-form .jqTransformSelectWrapper  a.jqTransformSelectOpen {
+	display: block;
+	position: absolute;
+	right: 2px;
+	top:3px;
+	width: 19px;
+	height: 17px;
+	background: url(../images/transl-form-btn.gif) no-repeat 0 0;
+}
+	#transl-form .jqTransformSelectWrapper  a.jqTransformSelectOpen:hover {background: url(../images/transl-form-btn.gif) no-repeat 0 -17px !important;}
+#transl-form .jqTransformSelectWrapper ul {
+	position: absolute;
+	top: 22px;
+	left: 0;
+	list-style: none;
+	background-color: #fff;
+	border:1px solid #e2e2e2;
+	display: none;
+	margin: 0px;
+	padding: 0px;
+	height: auto;
+	overflow: auto;
+	z-index:100;
+	width:178px !important;
+}
+#transl-form .jqTransformSelectWrapper ul a {
+	display: block;
+	padding: 0 3px 0 11px;
+	text-decoration: none;
+	color:#010101;
+	background-color: #fff;
+	font-size: 13px;
+	line-height:21px;
+	height:21px;
+}
+#transl-form .jqTransformSelectWrapper ul a.selected {background: #d0d0d0;color:#010101;}
+#transl-form .jqTransformSelectWrapper ul a:hover, .jqTransformSelectWrapper ul a.selected:hover {background: #d0d0d0;color:#010101;}
+/* Inputs */
+#transl-form .jqTransformInputWrapper {
+	width:179px !important;
+	border:1px solid #e2e2e2;
+	height: 21px;
+	background: #fff;
+	float:left;
+	z-index:1;
+	position:relative;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+}
+#transl-form .jqTransformInputInner {padding: 0px;margin: 0px;}
+#transl-form .jqTransformInputInner div {
+	height: 21px;
+	margin:0;
+	overflow:hidden;
+}
+#transl-form .jqTransformInputInner div input {
+	font-size:13px;
+	vertical-align: middle;
+	color:#010101;
+	border: none;
+	padding: 1px 5px 3px 5px;
+	margin: 0px;
+	background:transparent;
+	float:left;
+	outline:none;
+	width:169px !important;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#transl-form .jqTransformSafari .jqTransformInputInner div {
+	position: relative;
+	overflow: hidden;
+	margin:0;
+}
+#transl-form .jqTransformSafari .jqTransformInputInner div input {
+	position: absolute;
+	top: -4px;
+	left: 0;
+	height: 21px;
+	outline:none;
+}
+/* Checkbox */
+#transl-form .jqTransformCheckboxWrapper {
+	float:left;
+	width:13px;
+	height:13px;
+	margin:3px 7px 0 0;
+}
+	#transl-form .jqTransformCheckbox {
+		display:block;
+		width:13px;
+		height:13px;
+		background: url(../images/transl-form-checkbox.gif) no-repeat 0 0;
+	}
+		#transl-form .jqTransformCheckbox.jqTransformChecked {background: url(../images/transl-form-checkbox.gif) no-repeat 0 -13px;}
+/* --- * Textarea * --- */
+#transl-form #jqTransformTextarea-tl,
+#transl-form #jqTransformTextarea-tm,
+#transl-form #jqTransformTextarea-tr,
+#transl-form #jqTransformTextarea-ml,
+#transl-form #jqTransformTextarea-mr,
+#transl-form #jqTransformTextarea-bl,
+#transl-form #jqTransformTextarea-bm,
+#transl-form #jqTransformTextarea-br {display:none !important;}
+#transl-form #jqTransformTextarea-mm {padding:0; border:none !important; background:none !important;}
+#transl-form #jqTransformTextarea-mm textarea {
+	padding:5px;
+	width:169px !important;
+	height:61px !important;
+	font-size:13px;
+	color:#010101;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	resize:none;
+	border:1px solid #e2e2e2;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	outline:none;
+	overflow:auto;
+}
+#transl-form .row-7 #jqTransformTextarea-mm textarea {
+	padding:5px;
+	width:234px !important;
+	height:74px !important;
+	font-size:13px;
+	color:#010101;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	resize:none;
+	border:1px solid #e2e2e2;
+	border-radius:5px;
+}
+/* ------------- * Hidden - used to hide the original form elements * ------------- */
+.jqTransformHidden {display: none;}	
+
+#transl-form input.file {
+	background:url(../images/transl-form-select-file.jpg) no-repeat 0 0;
+	border:none;
+	padding:0 8px;
+	height:23px;
+	margin:0 4px 0 0;
+	vertical-align:middle;
+}
+#transl-form .browse-file:hover {background-position: right -22px !important;}
+#login-form fieldset{border:none}
+	#login-form .field{overflow:hidden;min-height:45px;height:auto !important;height:45px;padding:4px}
+		#login-form input[type=text],#login-form input[type=password]{
+			width:368px; 
+			font-size:13px;
+			padding:9px 14px 9px 14px;
+			background:#fff;
+			outline:none;
+			font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+			display:block;
+			color:#7d7d7d;
+			margin:0;
+			box-shadow:none !important;
+			border-radius:7px;
+			border:1px solid #d0d0d0;
+		}
+		#login-form input[type="checkbox"]{margin:0 10px 0 0;vertical-align:middle;}
+		#login-form a{float:right;}			
+				#login-form small{color:red;font-weight:bold;padding:0 0 0 5px}		
+		#login-form label[for=remember]{font-size:12px;color:#333;float:left;padding:10px 0 0 18px}	

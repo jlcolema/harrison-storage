@@ -1,0 +1,52 @@
+/* 
+  -------------------------------------------------------
+  File:'Blueball Shadow Colors 36' aqua_top.css
+  Created: 31 August, 2006
+  Last Modified: 1 September, 2007
+  Author: Charlie Lockhart, Blueball Design
+  www.blueballdesign.com
+  Email: themes@blueballdesign.com
+  Copyright 2005/2006/2007 Charlie Lockhart/Blueball Design USA
+  All Rights Reserved
+  -------------------------------------------------------
+*/
+
+#pageheader {
+	background: url(../../images/aquaBG.jpg) top left repeat-x;
+}
+
+#pageheader h1 {
+	color: #008f9f;
+}
+
+#pageheader h2 {
+	color: #008f9f;
+}
+
+.photo-navigation {
+	background: url(../../images/aquaBG.jpg) top left repeat-x;
+}
+
+#breadcrumbcontainer {
+	color: #008f9f;
+}
+
+#breadcrumbcontainer #current {
+	color: #008f9f;
+}
+
+#breadcrumbcontainer ul {
+	color: #008f9f;
+}
+
+#breadcrumbcontainer li {
+}
+
+#breadcrumbcontainer a {
+	color: #008f9f;
+}
+
+#breadcrumbcontainer a:hover {
+	color: #008f9f;
+}
+

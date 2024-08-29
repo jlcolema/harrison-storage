@@ -1,0 +1,25 @@
+/* 
+  -------------------------------------------------------
+  File:'Blueball Shadow Colors 36' bannerad_show.css
+  Created: 31 August, 2006
+  Last Modified: 21 August, 2007
+  Author: Charlie Lockhart, Blueball Design
+  www.blueballdesign.com
+  Email: themes@blueballdesign.com
+  Copyright 2005/2006/2007 Charlie Lockhart/Blueball Design USA
+  All Rights Reserved
+  -------------------------------------------------------
+*/
+
+#bannerad {
+	position: relative;
+	height: 84px;
+	width: 728px;
+	margin: 0px auto;
+	margin-top: 10px;
+	margin-bottom: 40px;
+	background: transparent;
+	text-align: center;
+}
+
+

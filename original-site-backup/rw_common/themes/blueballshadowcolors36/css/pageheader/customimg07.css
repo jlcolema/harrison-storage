@@ -1,0 +1,51 @@
+/* 
+  -------------------------------------------------------
+  File:'Blueball Shadow Colors 36' customimg07.css.css
+  Created: 31 August, 2006
+  Last Modified: 1 September, 2007
+  Author: Charlie Lockhart, Blueball Design
+  www.blueballdesign.com
+  Email: themes@blueballdesign.com
+  Copyright 2005/2006/2007 Charlie Lockhart/Blueball Design USA
+  All Rights Reserved
+  -------------------------------------------------------
+*/
+
+#pageheader {
+	background: url(../../images/customimg07.jpg) no-repeat;
+}
+
+#pageheader h1 {
+	color: #000000;
+}
+
+#pageheader h2 {
+	color: #222222;
+}
+
+.photo-navigation {
+	background: url(../../images/customimg07.jpg) no-repeat;
+}
+
+#breadcrumbcontainer {
+	color: #222222;
+}
+
+#breadcrumbcontainer #current {
+	color: #000000;
+}
+
+#breadcrumbcontainer ul {
+	color: #222222;
+}
+
+#breadcrumbcontainer li {
+}
+
+#breadcrumbcontainer a {
+	color: #222222;
+}
+
+#breadcrumbcontainer a:hover {
+	color: #000000;
+}

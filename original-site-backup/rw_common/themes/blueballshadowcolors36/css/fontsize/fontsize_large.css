@@ -1,0 +1,152 @@
+/* 
+  -------------------------------------------------------
+  File:'Blueball Shadow Colors 36' fontsize_large.css
+  Created: 29 August, 2006
+  Last Modified: 21 August, 2007
+  Author: Charlie Lockhart, Blueball Design
+  www.blueballdesign.com
+  Email: themes@blueballdesign.com
+  Copyright 2005/2006/2007 Charlie Lockhart/Blueball Design USA
+  All Rights Reserved
+  -------------------------------------------------------
+*/
+
+body {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+blockquote, .standout {
+	font-size: 15px;
+	line-height: 1.5em;
+}
+
+h1 {
+	font-size: 24px;
+}
+
+h2 {
+	font-size: 21px;
+}
+
+h3 {
+	font-size: 18px;
+}
+
+h4 {
+	font-size: 15px;
+}
+
+#pageheader h1 {
+	padding: 23px 0px 3px 36px;
+	font-size: 28px;
+}
+
+#pageheader h2 {
+	padding: 4px 0px 0px 36px;
+	font-size: 13px;
+}
+
+#innercontainer table {
+	font-size: 14px;
+}
+
+#footer {
+	font-size: 12px;
+}
+
+#navcontainer a {
+	font-size: 12px;
+}
+
+.blog-entry-title {
+	font-size: 19px;
+}
+
+.blog-entry-date {
+	font-size: 14px;
+}
+
+.blog-read-more {
+	font-size: 13px;
+}
+
+.blog-read-more a {
+	font-size: 13px;
+}
+
+.blog-read-more a:hover {
+	font-size: 13px;
+}
+
+.blog-entry-comments {
+	font-size: 13px;
+}
+
+.blog-archive-month {
+	font-size: 16px;
+}
+
+.blog-archive-link {
+	font-size: 14px;
+}
+
+.filesharing-description {
+	font-size: 14px;
+}
+
+.filesharing-item-title {
+	font-size: 17px;
+}
+
+.filesharing-item-description {
+	font-size: 14px;
+}
+
+.album-title {
+	font-size: 24px;
+}
+
+.thumbnail-caption {
+	font-size: 13px;
+}
+
+.photo-links {
+	font-size: 15px;
+}
+
+.photo-navigation a {
+	font-size: 15px;
+}
+
+.photo-navigation a:hover {
+	font-size: 15px;
+}
+
+.photo-title {
+	font-size: 26px;
+}
+
+.photo-caption {
+	font-size: 18px;
+}
+
+.movie-page-title {
+	font-size: 24px;
+}
+
+.movie-thumbnail-caption {
+	font-size: 13px;
+}
+
+.movie-title {
+	font-size: 20px;
+}
+
+.movie-title {
+	font-size: 16px;
+}
+
+.movie-description {
+	font-size: 14px;
+}

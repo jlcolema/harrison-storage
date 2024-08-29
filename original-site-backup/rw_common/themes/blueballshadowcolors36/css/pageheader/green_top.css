@@ -1,0 +1,52 @@
+/* 
+  -------------------------------------------------------
+  File:'Blueball Shadow Colors 36' green_top.css
+  Created: 31 August, 2006
+  Last Modified: 1 September, 2007
+  Author: Charlie Lockhart, Blueball Design
+  www.blueballdesign.com
+  Email: themes@blueballdesign.com
+  Copyright 2005/2006/2007 Charlie Lockhart/Blueball Design USA
+  All Rights Reserved
+  -------------------------------------------------------
+*/
+
+#pageheader {
+	background: url(../../images/greenBG.jpg) top left repeat-x;
+}
+
+#pageheader h1 {
+	color: #ffffff;
+}
+
+#pageheader h2 {
+	color: #dddddd;
+}
+
+.photo-navigation {
+	background: url(../../images/greenBG.jpg) top left repeat-x;
+}
+
+#breadcrumbcontainer {
+	color: #dddddd;
+}
+
+#breadcrumbcontainer #current {
+	color: #ffffff;
+}
+
+#breadcrumbcontainer ul {
+	color: #dddddd;
+}
+
+#breadcrumbcontainer li {
+}
+
+#breadcrumbcontainer a {
+	color: #dddddd;
+}
+
+#breadcrumbcontainer a:hover {
+	color: #ffffff;
+}
+
